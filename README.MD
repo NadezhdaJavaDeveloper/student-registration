@@ -34,17 +34,17 @@
 git clone <https://github.com/NadezhdaJavaDeveloper/student-registration.git>
 ```
 3) откройте проект с помощью IntelliJ IDEA;
-4) открыть терминал;
+4) откройте терминал;
 5) создайте образ командой `docker build -t student-registration .`;
 6) запустите контейнер командой `docker run -it student-registration`;
 7) используйте команды:
--`gas` для получения полного списка студентов;
--`as firstName lastName age` для создания студента;
+- `gas` для получения полного списка студентов;
+- `as firstName lastName age` для создания студента;
 - `dsbi id` для удаления студента по id;
 - `das` для удаления всех студентов из списка.
 
 6) нажмите правой кнопкой мыши на классе `Main` и запустите проект кнопкой `Run Application.main()`;
-7) перейдите по адресу http://localhost:8080/
+
 
 ### Свойства по умолчанию
 
