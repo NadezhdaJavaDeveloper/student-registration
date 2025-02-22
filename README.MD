@@ -43,8 +43,6 @@ git clone <https://github.com/NadezhdaJavaDeveloper/student-registration.git>
 - `dsbi id` для удаления студента по id;
 - `das` для удаления всех студентов из списка.
 
-6) нажмите правой кнопкой мыши на классе `Main` и запустите проект кнопкой `Run Application.main()`;
-
 
 ### Свойства по умолчанию
 
