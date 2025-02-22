@@ -1,0 +1,13 @@
+spring:
+  shell:
+    script:
+      enable: true
+    interactive:
+      enable: true
+app:
+  event-queue:
+    enabled: ${EVENT_QUEUE_ENABLED:false}
+
+
+
+
